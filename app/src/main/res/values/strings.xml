@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ShiftLab</string>
+    <string name="registration">Регистрация</string>
+    <string name="sign_up">Зарегестрироваться</string>
+    <string name="hint_name">Никита</string>
+    <string name="hint_surname">Панфилов</string>
+    <string name="hint_date">ДД.ММ.ГГГГ</string>
+    <string name="hint_password">Пароль</string>
+    <string name="hint_password_again">Подтверждение пароля</string>
+    <string name="invalid_name">Некорректное имя.</string>
+    <string name="invalid_surname">Некорректная фамилия.</string>
+    <string name="invalid_date_format">Некорректный формат даты</string>
+    <string name="invalid_date">Некорректная дата</string>
+    <string name="invalid_password">Пароль должен содержать цифры и латинские буквы.</string>
+    <string name="different_passwords">Разные пароли.</string>
+    <string name="ok">OK</string>
+    <string name="greeting">Приветствую!</string>
+</resources>
